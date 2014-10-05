@@ -1,0 +1,20 @@
+Please use the Makefile to compile and run the code. I am using the Assimp library to read the stl file format.
+On ubuntu, I installed this library from the ubuntu software center. For windows, the download instructions can
+be found on the assimp website http://assimp.sourceforge.net/ 
+
+The program takes around 15-20 min to calculate the distance field for both the upper jaw and the lower jaw.
+Please use the following keys to change the scene:
+
+
+w : move scene upwards
+s : move scene downwards
+a : move scene left
+d : move scene right
+k : zoom in
+l : zoom out
+t : move bear upwards
+z : move bear downwards
+g : move bear right
+h : move bear left
+b : move bear forward
+n : move bear backward
